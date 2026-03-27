@@ -2,7 +2,7 @@
 
 This is a clone (in Scratch) of the TV Show Lingo hoisted by RuPaul. Lingo is a long-running word-based television game show where contestants compete to decode mystery words based on their first letter and subsequent clues. Originally created by Ralph Andrews in 1987, it has become a global format with successful iterations in the UK, the US, and the Netherlands.
 
-# Rules
+# Rules: How to play?
 
 1. It is very similar to Wordle. A green letter means that the letter is correctly placed. A yellow letter means that the letter is incorrectly placed. A grey letter means that the word letter is not in the word.
 2. Each green letter can get 100 points to the player, a yellow letter can get 50 points to the player.
@@ -11,7 +11,7 @@ This is a clone (in Scratch) of the TV Show Lingo hoisted by RuPaul. Lingo is a 
 5. If the word does not follow the first letter, they are likely to deduct 50 points due to the violation of its rules.
 6. A word cannot be guessed twice or more. They won't score.
 
-# Inclusivity, Features and Accessibility
+# Inclusivity, Features and Accessibility: What is the reason for creating this game?
 
 1. After the player types the word, it will have some sounds. A high C is a green letter, a middle C is a yellow letter, a low C is a blue letter.
 2. For people who are blind, with low vision or dyslexia can change the colour theme with the list "colour codes" in the .sb3 file. Item 1 is the colour of the "not exist", item 2 is the colour of "correctly placed" while item 3 is the colour of "wrongly placed".
