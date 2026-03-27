@@ -33,3 +33,6 @@ Guess a 5-letter word that starts with C.
 ` P1 [P2]| CRANE ╳╳╳╳╳ | P1:   200, P2:    -50 [Repeated]`
 
 `[P1] P2 | COUNT ▓▓▓▓▓ | P1:  1050, P2:    -50 [P1 Successfully Guessed The Word]`
+
+<img width="951" height="710" alt="Screenshot 2026-03-28 at 12 49 03 AM" src="https://github.com/user-attachments/assets/00a18d0b-f0c9-4922-a627-5d52a49bca22" />
+
