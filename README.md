@@ -37,3 +37,4 @@ Guess a 5-letter word that starts with C.
 
 <img width="951" height="710" alt="Screenshot 2026-03-28 at 12 49 03 AM" src="https://github.com/user-attachments/assets/00a18d0b-f0c9-4922-a627-5d52a49bca22" />
 
+Oh, sorry, I've been very busy recently so I don't have time to work on my fonts. I've been focusing on Wordle games.
