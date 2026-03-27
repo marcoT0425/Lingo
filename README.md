@@ -19,3 +19,17 @@ This is a clone (in Scratch) of the TV Show Lingo hoisted by RuPaul. Lingo is a 
 4. For the answer list, some words are also removed because it is so associated with historical trauma or considered vulgar or offensive.
 5. You may customise the vocabulary to target the players by their English skills, e.g. for A1-A2 learners, the user can set the answers to simple words like "apple", "banana", "phone" or "blue".
 6. There are a lot of rewards to keep track to their progess and evalutate themselves and penalties to make the game more competitive like a race.
+
+# Examples (text version equivalent)
+
+Guess a 5-letter word that starts with C.
+
+`[P1] P2 | CRANE ▓░░▓░ | P1:   200, P2:      0`
+
+` P1 [P2]| COOCY ╳╳╳╳╳ | P1:   200, P2:    -50 [Invalid Word]`
+
+`[P1] P2 | COUCH ▓▓▓░░ | P1:   500, P2:    -50`
+
+` P1 [P2]| CRANE ╳╳╳╳╳ | P1:   200, P2:    -50 [Repeated]`
+
+`[P1] P2 | COUNT ▓▓▓▓▓ | P1:  1050, P2:    -50 [P1 Successfully Guessed The Word]`
