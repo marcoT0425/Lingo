@@ -10,6 +10,7 @@ This is a clone (in Scratch) of the TV Show Lingo hoisted by RuPaul. Lingo is a 
 4. If the player can solve the puzzle in 1 try, they will get 1000 points. 2 tries: 500 points, 3 tries: 300 points, 4 points: 100 points, 5 points: 50 points, 6: +25.
 5. If the word does not follow the first letter, they are likely to deduct 50 points due to the violation of its rules.
 6. A word cannot be guessed twice or more. They won't score.
+7. If you want to play this game, it is recommended to use Google, Microsoft Edge, Linux, Opera etc. devices to run because you need to download the font "DIN 2014". (https://font.gooova.com/fonts/15360/din-2014-font-family.html)
 
 # Inclusivity, Features and Accessibility: What is the reason for creating this game?
 
